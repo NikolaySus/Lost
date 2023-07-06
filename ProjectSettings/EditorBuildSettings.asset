@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: a976391b02008914caa97034422c25d0
+  - enabled: 1
+    path: Assets/Scenes/Scene2.unity
+    guid: 4489177cd233f1a40b9d2995e689cad0
+  - enabled: 1
+    path: Assets/Scenes/Scene3.unity
+    guid: 7fff0d7dfddb8294e96fc08fb37273d8
+  - enabled: 1
+    path: Assets/Scenes/Scene4.unity
+    guid: b6f09efb4e69da4409d46f59898d8599
+  - enabled: 1
+    path: Assets/Scenes/Scene5.unity
+    guid: 36e20c1dff7749243b03e27f5dd8d705
+  - enabled: 1
+    path: Assets/Scenes/Scene6.unity
+    guid: 53763ef725a234b47b3ff00099b872cd
+  - enabled: 1
+    path: Assets/Scenes/Scene7.unity
+    guid: fec867e6885aa0c4bac87a2e37e3f0af
+  - enabled: 1
+    path: Assets/Scenes/Scene8.unity
+    guid: a35d63c8c00121d4da2dca037ef08014
+  - enabled: 1
+    path: Assets/Scenes/Scene9.unity
+    guid: c9cc4198b8daf1e499054f2ac05e8424
+  - enabled: 1
+    path: Assets/Scenes/Home1.unity
+    guid: 6d8bfb92e075dce4bb569d3a7c9aab7b
+  - enabled: 1
+    path: Assets/Scenes/Fight1.unity
+    guid: 627d32db1bc952d4394e7af06a0181a1
+  - enabled: 1
+    path: Assets/Scenes/Home2.unity
+    guid: 9b27a43533ac80142b3accef7d6952c3
+  - enabled: 1
+    path: Assets/Scenes/Home3.unity
+    guid: 21d3de3a29412d34fa9eaab47d0f8af2
+  - enabled: 1
+    path: Assets/Scenes/Home4.unity
+    guid: 32757b308cf62ea40a5f065bac435fa9
+  - enabled: 1
+    path: Assets/Scenes/Home5.unity
+    guid: e30aaff8817a1464bb147c777f71c9e2
+  - enabled: 1
+    path: Assets/Scenes/Fight2.unity
+    guid: 068c64b1cb9c7f24f994538f1a8dac88
+  - enabled: 1
+    path: Assets/Scenes/Fight3.unity
+    guid: 9dc45c9d0da51ed44bca9f2aa00f667f
+  - enabled: 1
+    path: Assets/Scenes/Fight4.unity
+    guid: d8c34ba63a6fe764091c3ec981620df9
+  - enabled: 1
+    path: Assets/Scenes/Fight5.unity
+    guid: b9154593b4144fc45bd6e1b334945719
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: efda0121fc5cddc49ae903dcb1b64dff
+  - enabled: 1
+    path: Assets/Scenes/PauseScene.unity
+    guid: cb11045c32df01643a1377819c2f586b
+  - enabled: 1
+    path: Assets/Scenes/DeathTest.unity
+    guid: 8c6cd12791dc66f49bfc02ef95566414
+  m_configObjects: {}
